@@ -1,1 +1,1 @@
-# Pyhton-basics-assignment
+# Python-basics-assignment
